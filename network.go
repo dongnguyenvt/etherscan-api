@@ -20,6 +20,8 @@ const (
 	Rinkby Network = "api-rinkeby"
 	// Goerli Testnet(CLIQUE)
 	Goerli Network = "api-goerli"
+	// Sepolia Testnet(POA)
+	Sepolia Network = "api-sepolia"
 	// Tobalaba Testnet
 	Tobalaba Network = "api-tobalaba"
 )
